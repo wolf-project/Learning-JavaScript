@@ -29,7 +29,7 @@ console.log(a, b)
 
 // Declaração de uma variável constante
 //Printar resultado no console
-const c = 5         // Quanto mais "constantes" melhor será manter o seu código.
+const c = 5         // Quanto mais "constantes" melhor será para manter o seu código.
 console.log(c)
 
 // JavaScript é uma linguagem de tipagem fraca, isso que dizer que o tipo de cada variável pode mudar de acordo com a declaração.
