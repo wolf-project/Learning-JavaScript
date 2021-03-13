@@ -46,7 +46,7 @@ console.log(typeof d , d)
 const peso1 = 1.0
 const peso2 = Number('2.0')
 
-console.log(peso1)                      // Exibe o valor de peso1 no console
+console.log(peso1)                       // Exibe o valor de peso1 no console
 console.log(Number.isInteger(peso1))    // Aqui será confirmado se a variável peso1 é integer, e irá retornar true
 
 // 

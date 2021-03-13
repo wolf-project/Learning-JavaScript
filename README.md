@@ -6,7 +6,7 @@
 ## Picking list
 ##### Aqui vou listando tudo o que for aprendendo e aplicando em projetos.
 
-- [x] `JavaScript` (Fundamentos,Estruturas de controle,Funções,Array etc)
+- [ ] `JavaScript` (Fundamentos,Estruturas de controle,Funções,Array etc)
 - [ ] `HTML5`
 - [ ] `CSS3`
 - [ ] `Angular`
