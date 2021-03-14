@@ -66,3 +66,40 @@ console.log(escola.substring(0,3))
 const up = texto => texto.toUpperCase()
 console.log(`Ei... ${up('cuidado')}!`)
 
+// Tipos em JavaScript: Booleans (True or false)
+
+isAtivo = true
+console.log(isAtivo)
+
+isAtivo = 1 
+console.log(!!isAtivo)
+
+// Os verdadeiros
+
+console.log(!!3)
+console.log(!!-1)
+console.log(!!' ')
+console.log(!![])
+console.log({})
+console.log(!!(isAtivo = true))
+
+//Os falsos
+
+console.log(!!0)
+console.log(!!'')
+console.log(!!null)
+console.log(!!NaN)
+console.log(undefined)
+console.log(!!(isAtivo = false))
+
+console.log('Finalizando')
+console.log(!!('' || null || 0 || 'Hello')) // Irá mostrar apenas o valor "True"
+
+// Exemplo de uso diverso
+let nome = '' // SE não possuir entrada, irá mostrar desconhecido
+console.log(nome || 'Desconhecido') //Seguindo esta linha
+
+// Tipos em JavaScript: Array
+
+
+
