@@ -49,4 +49,20 @@ const peso2 = Number('2.0')
 console.log(peso1)                       // Exibe o valor de peso1 no console
 console.log(Number.isInteger(peso1))    // Aqui será confirmado se a variável peso1 é integer, e irá retornar true
 
-// 
+// Tipos em JavaScript: String
+
+const escola = "Cod3r"
+
+console.log(escola.charAt(4))
+console.log(escola.charAt(5))
+console.log(escola.charCodeAt(3))
+console.log(escola.indexOf('3'))
+
+console.log(escola.substring(1))
+console.log(escola.substring(0,3))
+
+// Exemplo de uma função template String
+
+const up = texto => texto.toUpperCase()
+console.log(`Ei... ${up('cuidado')}!`)
+
