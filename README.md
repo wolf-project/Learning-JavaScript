@@ -8,7 +8,7 @@
 
 - [ ] `Boas práticas` e `clean code`
 - [ ] `JavaScript` (Fundamentos,Estruturas de controle,Funções,Array etc)
-- [!] `HTML5`
+- [.] `HTML5`
 - [ ] `CSS3`
 - [ ] `Angular`
 - [ ] `NodeJs`
